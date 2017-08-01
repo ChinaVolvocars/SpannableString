@@ -2,7 +2,7 @@
 
 > 效果图
 
-![]()
+![](https://github.com/ChinaVolvocars/SpannableString/blob/master/img/20170801115739.png)
 
 
 - ForegroundColorSpan
