@@ -18,10 +18,10 @@
 
 
 
-Spanned.SPAN_INCLUSIVE_EXCLUSIVE  从起始下标到终了下标，包括起始下标,
-Spanned.SPAN_INCLUSIVE_INCLUSIVE  从起始下标到终了下标，同时包括起始下标和终了下标,
-Spanned.SPAN_EXCLUSIVE_EXCLUSIVE  从起始下标到终了下标，但都不包括起始下标和终了下标,
-Spanned.SPAN_EXCLUSIVE_INCLUSIVE  从起始下标到终了下标，包括终了下标
+* Spanned.SPAN_INCLUSIVE_EXCLUSIVE  从起始下标到终了下标，包括起始下标,
+* Spanned.SPAN_INCLUSIVE_INCLUSIVE  从起始下标到终了下标，同时包括起始下标和终了下标,
+* Spanned.SPAN_EXCLUSIVE_EXCLUSIVE  从起始下标到终了下标，但都不包括起始下标和终了下标,
+* Spanned.SPAN_EXCLUSIVE_INCLUSIVE  从起始下标到终了下标，包括终了下标
 
 #### 1. ForegroundColorSpan，为文本设置前景色，效果和TextView的setTextColor()类似，实现方法如下：
 ```java
