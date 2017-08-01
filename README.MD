@@ -1,10 +1,4 @@
 ### SpannableString的使用
-
-> 效果图
-
-![](https://github.com/ChinaVolvocars/SpannableString/blob/master/img/20170801115739.png)
-
-
 - ForegroundColorSpan
 - BackgroundColorSpan
 - RelativeSizeSpan
@@ -17,6 +11,12 @@
 - ClickableSpan
 - URLSpan
 - SpannableStringBuilder
+
+> 效果图
+
+![](https://github.com/ChinaVolvocars/SpannableString/blob/master/img/20170801115739.png)
+
+
 
 Spanned.SPAN_INCLUSIVE_EXCLUSIVE  从起始下标到终了下标，包括起始下标
 Spanned.SPAN_INCLUSIVE_INCLUSIVE  从起始下标到终了下标，同时包括起始下标和终了下标
