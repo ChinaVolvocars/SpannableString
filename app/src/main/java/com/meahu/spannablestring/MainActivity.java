@@ -30,6 +30,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+        //测试
         /**
          * Spanned.SPAN_INCLUSIVE_EXCLUSIVE  从起始下标到终了下标，包括起始下标
 
